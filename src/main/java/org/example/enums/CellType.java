@@ -1,2 +1,5 @@
-package org.example;public enum CellType {
+package org.example.enums;
+
+public enum CellType {
+    EMPTY, X, O;
 }
